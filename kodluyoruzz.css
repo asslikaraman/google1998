@@ -1,0 +1,58 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.logo{
+    text-align: center;
+}
+.divlogo{
+    background-color: #EEEEEE;
+    width: 1326px;
+    height: 90px;
+    border: "0";
+}
+.input{
+    width: 300px;
+    text-align: center;
+    margin-left: 500px;
+}
+.button{
+    text-align: center;
+}
+.div{
+    height: 100px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.ilkdiv{
+    padding-left: 2px;
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-bottom: 1px;
+    text-align: center;
+    float: left;
+    font-size: 15px;
+    width: 37%;
+}
+.ikincidiv{
+    padding-left: 2px;
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-bottom: 1px;
+    text-align: center;
+    float: left;
+    font-size: 13px;
+    width: 24%;
+
+}
+.ucuncudiv{
+    padding-left: 2px;
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-bottom: 1px;
+    text-align: center;
+    float: left;
+    font-size: 13px;
+    width: 37%;
+}
